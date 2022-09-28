@@ -4,6 +4,6 @@ seaborn
 matplotlib
 tensorflow
 numpy
-skimage
+scikit-image
 scipy
 sklearn
